@@ -1,0 +1,28 @@
+{
+  "goblins": [
+    {
+      "name" : "Grunkles",
+      "img" : "/pics/grumpy_bat.png",
+      "favorite_food" : "Mangoes",
+      "pastime" : "Fishing"
+    },
+    {
+      "name" : "Smooch",
+      "img" : "/pics/goblin2.jpg",
+      "favorite_food" : "Tofu",
+      "pastime" : "Walks"
+    },
+    {
+      "name" : "Meatball",
+      "img" : "/pics/goblin1.jpg",
+      "favorite_food" : "Twigs",
+      "pastime" : "Drooling"
+    },
+    {
+      "name" : "Jared",
+      "img" : "/pics/goblin3.jpg",
+      "favorite_food": "Mai Tais",
+      "pastime" : "Video Games"
+    }
+  ]
+}
